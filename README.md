@@ -191,4 +191,4 @@ Forked version
 - [Christian P. Lerch](https://github.com/cplerch): Java refactorings and modernizations. 
 - [Sébastien Vanvelthem](https://github.com/belgattitude): Fork initiator and maintainer.
 
-See the [CREDITS.md](./CREDITS.md) for an up to date of list of contributors.
+See the [CREDITS.md](./CREDITS.md) for an up to date of list of contributors.# java-php-bridge
